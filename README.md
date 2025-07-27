@@ -1,11 +1,23 @@
-## Hi there 👋
+## Hi there 👋 I am Ian
 
+Hello! I'm  a passionate junior developer with a focus on building dynamic and scalable web applications. My core skill set includes:
 
-- 🔭 I’m currently working on a support ticket platform using php and jquery
-- 🌱 I’m currently learning the laravel framework
-- 📫 How to reach me: email: ianjeru020@gmail.com or twitter: [twitter.com/@ian_n_g](https://twitter.com/@ian_n_g)
-- 👉 Follow my journey on [twitter.com/@ian_n_g](https://twitter.com/@ian_n_g)
-<!-- ⚡ Fun fact about me: When I am not writing code, I am a part time farmer and poultry keeper-->
+* **PHP**: Building backend systems, API integrations, and custom solutions.
+* **JavaScript & jQuery**: Bringing websites to life with interactive, responsive features.
+* **MySQL & SQL**: Designing and optimizing databases to ensure high performance and data integrity.
+
+* **What I’m working on:**
+* Exploring new frameworks and tools to enhance my skill set.
+* Building personal projects to expand my knowledge of full-stack development.
+
+* **What I’m learning:**
+* Diving deeper into **Laravel** and **React** for modern web development.
+* Improving my understanding of database optimization and scalability.
+
+* **How to reach me:**
+* **email:** ianjeru020@gmail.com 
+<!--- 👉 Follow my journey on [twitter.com/@ian_n_g](https://twitter.com/@ian_n_g)
+ ⚡ Fun fact about me: When I am not writing code, I am a part time farmer and poultry keeper-->
 
 
 <!-- ## 🌐 Socials:
