@@ -6,15 +6,15 @@ Hello! I'm  a passionate junior developer with a focus on building dynamic and s
 * **JavaScript & jQuery**: Bringing websites to life with interactive, responsive features.
 * **MySQL & SQL**: Designing and optimizing databases to ensure high performance and data integrity.
 
-* **What I’m working on:**
+ **What I’m working on:**
 * Exploring new frameworks and tools to enhance my skill set.
 * Building personal projects to expand my knowledge of full-stack development.
 
-* **What I’m learning:**
-* Diving deeper into **Laravel** and **React** for modern web development.
+ **What I’m learning:**
+* Diving into **Laravel** and **React** for modern web development.
 * Improving my understanding of database optimization and scalability.
 
-* **How to reach me:**
+ **How to reach me:**
 * **email:** ianjeru020@gmail.com 
 <!--- 👉 Follow my journey on [twitter.com/@ian_n_g](https://twitter.com/@ian_n_g)
  ⚡ Fun fact about me: When I am not writing code, I am a part time farmer and poultry keeper-->
